@@ -171,7 +171,19 @@ Wauw, Miranda Bailey has been in 389 episodes! That means she is the most appear
 
 PLOTS OM VIEWS AF EPISODER/SÆSONER?
 
+## Fun Facts 
+
+<div align="center">
+    <iframe src="treatment_chart.html" sandbox="allow-same-origin allow-scripts" width=500px height=300px
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0"
+     ></iframe>
+</div>
+
+
 OVERGANG TIL ROMANCES
+
 
 PLOT / TABLE
 
